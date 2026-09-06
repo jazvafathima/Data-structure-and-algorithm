@@ -131,3 +131,13 @@ Insertion  → INSERT
 Selection  → SELECT
 Quick      → PIVOT
 Merge      → DIVIDE + MERGE
+
+
+| Algorithm          | Main idea                                                    |
+| ------------------ | ------------------------------------------------------------ |
+| **Bubble Sort**    | Compare adjacent elements and swap                           |
+| **Insertion Sort** | Take one element and   insert it into the correct position   |
+| **Selection Sort** | Find   minimum/maximum   and swap                            |
+| **Quick Sort**     | Choose a pivot, divide into smaller/larger                   |
+| **Merge Sort**     | Divide array, then merge sorted parts                        |
+
