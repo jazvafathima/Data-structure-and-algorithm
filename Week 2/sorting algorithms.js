@@ -122,3 +122,12 @@ function merge(left, right) {
 }
 
 console.log(mergeSort([5, 3, 8, 1, 2]));
+
+
+
+// ======================================
+Bubble     → COMPARE
+Insertion  → INSERT
+Selection  → SELECT
+Quick      → PIVOT
+Merge      → DIVIDE + MERGE
